@@ -2,21 +2,21 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&color=39FF14&center=true&vCenter=true&width=800&lines=Frontend+%26+Full-Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+%26+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&color=39FF14&center=true&vCenter=true&width=900&lines=Frontend+%26+Full-Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+%26+Modern+Web+Applications" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-💻 Frontend & Full-Stack Developer passionate about building modern, scalable, and secure web applications.
+### 🚀 Frontend & Full-Stack Developer | Cybersecurity Enthusiast
 
-🔐 Cybersecurity enthusiast focused on secure development, APIs, and penetration testing.
-
-🎯 Currently learning advanced frontend architecture, backend systems, and cybersecurity practices.
+Building secure, scalable, and modern web applications with a passion for clean UI, performance, and security.
 
 📍 Alexandria, Egypt
+
+</div>
 
 ---
 
@@ -30,7 +30,7 @@
 
 ---
 
-# 🔥 Cybersecurity Tools
+# 🔐 Cybersecurity Tools
 
 <div align="center">
 
@@ -51,9 +51,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedOmara1&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedOmara1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOmara1&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOmara1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedOmara1&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedOmara1&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -82,6 +82,7 @@
 # 🚀 Featured Projects
 
 ## 🏥 Hospital Management System
+
 Full-stack hospital management platform with scheduling, authentication, and doctor management.
 
 ### Tech Stack
@@ -92,6 +93,7 @@ Full-stack hospital management platform with scheduling, authentication, and doc
 ---
 
 ## 🔐 Secure Flask REST API
+
 REST API with:
 - JWT Authentication
 - 2FA Integration
@@ -107,6 +109,7 @@ REST API with:
 ---
 
 ## 📚 Educational Platform
+
 Scalable LMS platform with authentication and real-time features.
 
 ### Tech Stack
@@ -117,6 +120,7 @@ Scalable LMS platform with authentication and real-time features.
 ---
 
 ## 🛡 Python Vulnerability Scanner
+
 Security-focused project for vulnerability scanning and analysis.
 
 ### Tech Stack
@@ -127,7 +131,8 @@ Security-focused project for vulnerability scanning and analysis.
 
 # 🎓 Education
 
-### Alexandria National University
+## Alexandria National University
+
 Bachelor of Science in Cyber Security
 
 📅 2022 — 2026
@@ -162,8 +167,16 @@ Bachelor of Science in Cyber Security
 
 ---
 
+# 🌍 Portfolio
+
+### 🔗 Live Website
+
+👉 https://omara-dev.lovable.app/
+
+---
+
 <div align="center">
 
-## 💚 "Building secure, scalable, and modern digital experiences."
+## 💚 Building secure, scalable, and modern digital experiences.
 
 </div>

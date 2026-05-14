@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=header&text=Ahmed%20Omara&fontSize=42&fontColor=0a0e1a&fontAlignY=38&animation=fadeIn&desc=Frontend%20%26%20Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descSize=16&descAlignY=62&descColor=0a0e1a" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=28&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ahmed+Omara" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=Frontend+%26+Full-Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+%26+Modern+Web+Apps;BSc+Cyber+Security+%40+Alexandria+National+Uni" alt="Typing SVG" />
 
